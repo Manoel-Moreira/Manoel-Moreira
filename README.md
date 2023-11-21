@@ -1,7 +1,7 @@
 
 
 # Olá 👋, seja muito bem vindo ao meu perfil!!
-Espero que você encontre tudo o que procura nesse perfil 😉
+Espero que aqui você encontre tudo o que procura 😉
 
 Quer saber mais sobre mim? Se conecte comigo pelas redes socias
 
