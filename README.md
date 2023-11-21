@@ -1,22 +1,10 @@
 
+
 # Olá 👋, seja muito bem vindo ao meu perfil!!
-Espero que você encontre tudo o que procura nesse meu perfil. Se quiser saber mais sobre mim, pode me  procurar nas redes sociais que será um prazer estar conectado com você 😉
+Espero que você encontre tudo o que procura nesse perfil 😉
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://git-scm.com/" target= "_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height= "40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www .oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt= "oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href ="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/ scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+Quer saber mais sobre mim? Se conecte comigo pelas redes socias
 
+### 😁 [Instragran](https://instagram.com/manoel_moreirajr?utm_source=qr&igshid=MThlNWY1MzQwNA==)
 
-<!--
-**Manoel-Moreira/Manoel-Moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ [Linkedin](https://www.linkedin.com/in/manoelmoreira/)
