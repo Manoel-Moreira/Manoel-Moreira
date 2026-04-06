@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="![GithubCatGIF](https://github.com/user-attachments/assets/926aa7c1-97f5-46ee-9495-3e07bdbc2804)
+"  />
 </div>
 
 ###
@@ -18,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there </h1>
 
 ###
 
@@ -62,16 +63,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoel-Moreira/Manoel-Moreira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoel-Moreira/Manoel-Moreira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Manoel-Moreira/Manoel-Moreira/output/pacman-contribution-graph.svg">
-</picture>
-
-###
