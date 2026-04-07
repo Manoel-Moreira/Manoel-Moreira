@@ -20,11 +20,30 @@
 
 ###
 
-<h1 align="center">hey there </h1>
+<h1 align="center">Olá 👋 </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
+<p align="left">
+  💻 Sobre mim
+Sou um entusiasta de tecnologia com foco em Ciência de Dados, Machine Learning e Inteligência Artificial, sempre buscando transformar dados em soluções práticas e relevantes para o mundo real.
+  <br>
+Atualmente, estou em constante evolução na área, desenvolvendo minha base técnica e explorando desde conceitos fundamentais até aplicações mais avançadas de modelos de machine learning e Agentes Autônomos.
+  <br><br>
+
+🚀 O que você vai encontrar aqui
+Projetos de Ciência de Dados, Machine Learning e Agentes Autônomos
+<br>
+Experimentos com modelos de IA
+<br>
+Estudos aplicados e desafios práticos
+<br>
+Evolução contínua da minha jornada na área
+<br><br>
+🎯 Objetivo
+Meu objetivo é me consolidar como profissional na área de dados/IA, desenvolvendo soluções inteligentes que unam tecnologia, eficiência e impacto real.
+</p>
 
 ###
 
