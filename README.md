@@ -5,22 +5,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:manoelmoreiradesousajunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
 
 ---
 ---
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manoel-Moreira.Manoel-Moreira&"  />
-</div>
 
-###
-
-<h1 align="center">Olá 👋 </h1>
+<h1 align="center"> Olá, seja muito bem vindo ao meu Github 👋 </h1>
 
 ###
 
@@ -29,29 +23,27 @@
 <p align="left">
 Sou um entusiasta de tecnologia com foco em Ciência de Dados, Machine Learning e Inteligência Artificial, sempre buscando transformar dados em soluções práticas e relevantes para o mundo real.
   <br>
-Atualmente, estou em constante evolução na área, desenvolvendo minha base técnica e explorando desde conceitos fundamentais até aplicações mais avançadas de modelos de machine learning e Agentes Autônomos.
+  Estou em constante evolução na área desenvolvendo minha base técnica e explorando desde conceitos fundamentais até aplicações mais avançadas de modelos de machine learning e Agentes Autônomos.
   <br><br>
 
-🚀 O que você vai encontrar aqui
-Projetos de Ciência de Dados, Machine Learning e Agentes Autônomos
+
+<h3 align="left"> 🚀 O que você vai encontrar aqui? </h3> 
+◽Projetos de Ciência de Dados, Machine Learning e Agentes Autônomos
 <br>
-Experimentos com modelos de IA
+◽Experimentos com modelos de IA
 <br>
-Estudos aplicados e desafios práticos
+◽Estudos aplicados e desafios práticos
 <br>
-Evolução contínua da minha jornada na área
+◽Evolução contínua da minha jornada na área
 <br><br>
-🎯 Objetivo
+<h3 align="left"> 🎯 Objetivo </h3> 
+
 Meu objetivo é me consolidar como profissional na área de dados/IA, desenvolvendo soluções inteligentes que unam tecnologia, eficiência e impacto real.
 </p>
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Ferramentas Familiares </h3>
 
 ###
 
