@@ -24,9 +24,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me </h3>
+<h3 align="left">  💻 Sobre mim </h3> 
+<br>
 <p align="left">
-  💻 Sobre mim
 Sou um entusiasta de tecnologia com foco em Ciência de Dados, Machine Learning e Inteligência Artificial, sempre buscando transformar dados em soluções práticas e relevantes para o mundo real.
   <br>
 Atualmente, estou em constante evolução na área, desenvolvendo minha base técnica e explorando desde conceitos fundamentais até aplicações mais avançadas de modelos de machine learning e Agentes Autônomos.
